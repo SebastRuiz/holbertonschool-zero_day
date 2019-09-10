@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+*Hi, this is my first project in Holberton*
